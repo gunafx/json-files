@@ -1,0 +1,31 @@
+{
+	"version" : 3,
+	"dateinfo" : {
+		"start": "2018-08-22T21:03:19Z",
+		"expiry": "2018-12-31T21:03:19Z"
+	}, 
+	"messages" : {  
+		"en-us": {
+			"notice": "English Version (Heat Link) - This version of the application is going to be discarded in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Please consider updating to the latest version",
+			"expired": "Application is already expired!<br />Please update the application to latest version",
+		    "noticeTemplate":"notice_template_en",
+		    "expiredTemplate":"expired_template_en"
+		},
+		"fr": {
+			"notice": "French Version (Heat Link) - Cette version de l'application va être supprimée dans <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />S'il vous plaît envisager de mettre à jour vers la dernière version",
+			"expired": "L'application est déjà expirée!<br />Veuillez mettre à jour l'application vers la dernière version",
+		    "noticeTemplate":"notice_template_en",
+		    "expiredTemplate":"expired_template_en"
+		},
+		"es": {
+			"notice": "ESpanish Version (Heat Link) - Esta versión de la aplicación se descartará en <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Por favor considere actualizar a la última versión",
+			"expired": "¡La aplicación ya ha expirado!<br />Actualice la aplicación a la última versión",
+		    "noticeTemplate":"notice_template_en",
+		    "expiredTemplate":"expired_template_en"
+		}
+	},
+	"links": {
+		"appStore": "itms-apps://itunes.apple.com/app/id1386615660",
+		"playStore": "market://details?id=com.salusconnectna.salus.us"  
+	}  
+}  
